@@ -1,3 +1,5 @@
+//A small video repository with a global comment box
+
 $window({
   title: "Wimeo",
   width: 1270,
