@@ -1,2 +1,2 @@
-# Windows-93-stuff
-This is stuff I have made for Windows 93
+# Windows-93-stuff-fork
+a fork of Windows 93 stuff
